@@ -7,7 +7,7 @@
 
 # Design
 
-- Theming should be orange (Splatoon shade) and white
+- Theming should be orange (Splatoon shade) and white, purple highlights (Gitlab)
 
 - Responsive to all devices, and each of the 3 texts can be easily toggled
 
