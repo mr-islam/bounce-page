@@ -5,6 +5,18 @@
   - Arabic, translation, transliteration
   - nice links that can access specific things like Quran.com (ie. bookmarks will work)
 
+# To-do
+
+[] Design and publish a homepage to tease the idea
+
+[] Make mockups of the app
+
+[] Get both awrad transcribed, and translated
+  - Try using the Muwasala PDF [link to come], 
+  - otherwise reach out to [freelancer like this](https://www.upwork.com/o/profiles/users/_~011b9eb661a288d047/)
+    - Figure out how you want to receive the texts — so easy to manipulate and put in database (small contents, but practice good practise)
+    - Model it after the Quran.com database maybe?
+
 # Design
 
 - Theming should be orange (Splatoon shade) and white, purple highlights (Gitlab)
