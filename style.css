@@ -1,7 +1,23 @@
-#bottom {
-    background-color: #364652;
+html, body {
+    margin:0;
+    padding:0;
 }
 
-#white {
+
+#bottom {
+    background-color: #364652;
+    column-count: 2;
+    column-rule-style: solid;
+    column-rule-color: #fcfffc;
+    width: 100%;
+}
+
+.white {
     color: #fcfffc;
+    font-size: 16px;
+    font-family: Roboto, sans-serif;
+}
+
+#loveNote {
+    column-span: all;
 }
