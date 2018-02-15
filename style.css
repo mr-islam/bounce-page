@@ -21,3 +21,7 @@ html, body {
 #loveNote {
     column-span: all;
 }
+
+h5 {
+    font-family: 'Amiri', serif;
+}
